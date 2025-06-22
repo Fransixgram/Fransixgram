@@ -31,18 +31,8 @@ NOTHING TO DISPLAY YET........
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francisdubem&show_icons=true&theme=radical" alt="Francis's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francisdubem&theme=radical" alt="GitHub streak stats" />
-</p>
-
 ---
 
-### 🐍 Contribution Snake (Why Not?)
-
-![snake gif](https://github.com/francisdubem/francisdubem/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 Let's Connect!
 
