@@ -25,9 +25,7 @@
 
 ### 🚀 Projects I'm Proud Of
 
-- 🛒 [iPhone E-commerce Website](#) — Stylish mobile-first design, scroll animations, Swiper sliders, and contact validation.
-- 🌐 [Portfolio Website](#) — Fully responsive dev portfolio with modern UI and animation.
-- 🧠 [Mini Projects Collection](#) — JS calculators, image sliders, FAQ accordions, and more.
+NOTHING TO DISPLAY YET........
 
 ---
 
